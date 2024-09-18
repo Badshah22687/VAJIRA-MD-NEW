@@ -6,7 +6,7 @@
   "success_url": "/",
 
   "env": {
-    "SESSION_ID": {
+    "SESSION_ID": {VAJIRA-MD=yddTVL5S#_5Hw4oQUc8pQH7LAFgNoeRlR6Z7Vddo8d2AEI8WuMwg
             "description": "Type the Session-ID you got from scaning QR / ඔබට ආපු කොඩය මෙතන්ට දමන්න",
             "required": true,
             "value": "put session id here"
